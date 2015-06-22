@@ -27,11 +27,11 @@ yields
 
 This list represents an standard by consensus, amalgamated from the following sources:
 
-- [W3C]: CSS Fonts Module Level 3 › font-weight
-- [WebPlatform]: CSS › Properties › font-weight
 - [.NET]: System › Windows › FontWeights
 - [Java]: javafx › scene › text › FontWeight
-- [TypeKit]: Main › Web Design and Development › Using multiple weights and styles
+- [TypeKit]: Web Design and Development › Using multiple weights and styles
+- [W3C]: CSS Fonts Module Level 3 › font-weight
+- [WebPlatform]: CSS › Properties › font-weight
 
 ## Installation
 
