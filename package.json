@@ -1,8 +1,8 @@
 {
 	"name": "css-font-weight-names",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A JSON Object of css font-weight names mapped to their numeric value",
-	"keywords": ["css", "font", "text", "weight"],
+	"keywords": ["css", "fonts", "weights", "names", "text"],
 	"author": "Jonathan Neal <jonathantneal@hotmail.com>",
 	"license": "CC0-1.0",
 	"bugs": {
@@ -12,5 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/jonathantneal/css-font-weight-names.git"
-	}
+	},
+	"main": "./css-font-weight-names.json"
 }
