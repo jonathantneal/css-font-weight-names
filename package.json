@@ -1,6 +1,6 @@
 {
 	"name": "css-font-weight-names",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "A JSON Object of all CSS font weight names mapped to their numeric value",
 	"keywords": ["css", "w3c", "fonts", "weights", "names", "numbers", "json"],
 	"author": "Jonathan Neal <jonathantneal@hotmail.com>",
