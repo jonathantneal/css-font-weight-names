@@ -32,7 +32,7 @@ These values form an ordered sequence, where each number indicates a weight that
 - 300 - **Light**
 - 400 - **Normal**, **Book**, **Regular**
 - 500 - **Medium**
-- 600 - **Semi Bold**, *Demi Bold**
+- 600 - **Semi Bold**, **Demi Bold**
 - 700 - **Bold**
 - 800 - **Extra Bold**, **Ultra Bold**
 - 900 - **Black**, **Heavy**
